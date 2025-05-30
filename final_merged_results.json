@@ -1,0 +1,2666 @@
+[
+  {
+    "id": "tt0111161",
+    "title": "The Shawshank Redemption",
+    "rank": 1,
+    "release_year": 1994,
+    "rating": 9.3,
+    "vote_count": 3041106,
+    "description": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:22:00",
+    "imdb_id": "tt0111161",
+    "country": "United States"
+  },
+  {
+    "id": "tt0068646",
+    "title": "The Godfather",
+    "rank": 2,
+    "release_year": 1972,
+    "rating": 9.2,
+    "vote_count": 2122765,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:55:00",
+    "imdb_id": "tt0068646",
+    "country": "United States"
+  },
+  {
+    "id": "tt0071562",
+    "title": "The Godfather Part II",
+    "rank": 4,
+    "release_year": 1974,
+    "rating": 9,
+    "vote_count": 1428084,
+    "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "3:22:00",
+    "imdb_id": "tt0071562",
+    "country": "United States"
+  },
+  {
+    "id": "tt0050083",
+    "title": "12 Angry Men",
+    "rank": 5,
+    "release_year": 1957,
+    "rating": 9,
+    "vote_count": 924081,
+    "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:36:00",
+    "imdb_id": "tt0050083",
+    "country": "United States"
+  },
+  {
+    "id": "tt0108052",
+    "title": "Schindler's List",
+    "rank": 7,
+    "release_year": 1993,
+    "rating": 9,
+    "vote_count": 1521143,
+    "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "3:15:00",
+    "imdb_id": "tt0108052",
+    "country": "United States"
+  },
+  {
+    "id": "tt0110912",
+    "title": "Pulp Fiction",
+    "rank": 8,
+    "release_year": 1994,
+    "rating": 8.9,
+    "vote_count": 2332798,
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:34:00",
+    "imdb_id": "tt0110912",
+    "country": "United States"
+  },
+  {
+    "id": "tt0109830",
+    "title": "Forrest Gump",
+    "rank": 11,
+    "release_year": 1994,
+    "rating": 8.8,
+    "vote_count": 2377061,
+    "description": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:22:00",
+    "imdb_id": "tt0109830",
+    "country": "United States"
+  },
+  {
+    "id": "tt0080684",
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "rank": 15,
+    "release_year": 1980,
+    "rating": 8.7,
+    "vote_count": 1440051,
+    "description": "After the Empire overpowers the Rebel Alliance, Luke Skywalker begins training with Jedi Master Yoda, while Darth Vader and bounty hunter Boba Fett pursue his friends across the galaxy.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:04:00",
+    "imdb_id": "tt0080684",
+    "country": "United States"
+  },
+  {
+    "id": "tt0099685",
+    "title": "Goodfellas",
+    "rank": 17,
+    "release_year": 1990,
+    "rating": 8.7,
+    "vote_count": 1324491,
+    "description": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:25:00",
+    "imdb_id": "tt0099685",
+    "country": "United States"
+  },
+  {
+    "id": "tt0073486",
+    "title": "One Flew Over the Cuckoo's Nest",
+    "rank": 19,
+    "release_year": 1975,
+    "rating": 8.7,
+    "vote_count": 1115713,
+    "description": "A newly admitted mental patient helps his docile companions defy the tyrannical head nurse.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYjBkMjgzMzYtNzRiMS00NDc3LWE4YTUtZjYxYjZhNjNhYzhhXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:13:00",
+    "imdb_id": "tt0073486",
+    "country": "United States"
+  },
+  {
+    "id": "tt0114369",
+    "title": "Se7en",
+    "rank": 20,
+    "release_year": 1995,
+    "rating": 8.6,
+    "vote_count": 1909305,
+    "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:07:00",
+    "imdb_id": "tt0114369",
+    "country": "United States"
+  },
+  {
+    "id": "tt0038650",
+    "title": "It's a Wonderful Life",
+    "rank": 21,
+    "release_year": 1946,
+    "rating": 8.6,
+    "vote_count": 527289,
+    "description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDM4OWFhYjEtNTE5Yy00NjcyLTg5N2UtZDQwNDZlYjlmNDU5XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:10:00",
+    "imdb_id": "tt0038650",
+    "country": "United States"
+  },
+  {
+    "id": "tt0102926",
+    "title": "The Silence of the Lambs",
+    "rank": 22,
+    "release_year": 1991,
+    "rating": 8.6,
+    "vote_count": 1633627,
+    "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:58:00",
+    "imdb_id": "tt0102926",
+    "country": "United States"
+  },
+  {
+    "id": "tt0047478",
+    "title": "Seven Samurai",
+    "rank": 23,
+    "release_year": 1954,
+    "rating": 8.6,
+    "vote_count": 383670,
+    "description": "Farmers from a village exploited by bandits hire a veteran samurai for protection, and he gathers six other samurai to join him.",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZjliMWExOTMtZDQ3ZS00NWU3LWIyN2EtMjllNzk3ZTNlYzg4XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "3:27:00",
+    "imdb_id": "tt0047478",
+    "country": "Japan"
+  },
+  {
+    "id": "tt0120815",
+    "title": "Saving Private Ryan",
+    "rank": 24,
+    "release_year": 1998,
+    "rating": 8.6,
+    "vote_count": 1568669,
+    "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:49:00",
+    "imdb_id": "tt0120815",
+    "country": "United States"
+  },
+  {
+    "id": "tt0120689",
+    "title": "The Green Mile",
+    "rank": 26,
+    "release_year": 1999,
+    "rating": 8.6,
+    "vote_count": 1484227,
+    "description": "A death row guard learns that a gentle giant in his charge possesses a mysterious gift.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg",
+    "runtime": "3:09:00",
+    "imdb_id": "tt0120689",
+    "country": "United States"
+  },
+  {
+    "id": "tt0118799",
+    "title": "Life Is Beautiful",
+    "rank": 27,
+    "release_year": 1997,
+    "rating": 8.6,
+    "vote_count": 777586,
+    "description": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZTBhOGYzZjQtYzE0Mi00MGIwLWE0MWYtNzMxNTM2OTFkM2NjXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:56:00",
+    "imdb_id": "tt0118799",
+    "country": "Italy"
+  },
+  {
+    "id": "tt0076759",
+    "title": "Star Wars: Episode IV - A New Hope",
+    "rank": 29,
+    "release_year": 1977,
+    "rating": 8.6,
+    "vote_count": 1506937,
+    "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:01:00",
+    "imdb_id": "tt0076759",
+    "country": "United States"
+  },
+  {
+    "id": "tt0088763",
+    "title": "Back to the Future",
+    "rank": 30,
+    "release_year": 1985,
+    "rating": 8.5,
+    "vote_count": 1376446,
+    "description": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:56:00",
+    "imdb_id": "tt0088763",
+    "country": "United States"
+  },
+  {
+    "id": "tt6751668",
+    "title": "Parasite",
+    "rank": 34,
+    "release_year": 2019,
+    "rating": 8.5,
+    "vote_count": 1060776,
+    "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:12:00",
+    "imdb_id": "tt6751668",
+    "country": "South Korea"
+  },
+  {
+    "id": "tt0054215",
+    "title": "Psycho",
+    "rank": 35,
+    "release_year": 1960,
+    "rating": 8.5,
+    "vote_count": 752005,
+    "description": "A secretary on the run for embezzlement takes refuge at a secluded California motel owned by a repressed man and his overbearing mother.",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYjZhMzFiZjItODA3ZC00MmRhLWIzMGYtMmVjOWUwYTA3MTRjXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:49:00",
+    "imdb_id": "tt0054215",
+    "country": "United States"
+  },
+  {
+    "id": "tt0110357",
+    "title": "The Lion King",
+    "rank": 36,
+    "release_year": 1994,
+    "rating": 8.5,
+    "vote_count": 1202529,
+    "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:28:00",
+    "imdb_id": "tt0110357",
+    "country": "United States"
+  },
+  {
+    "id": "tt0095327",
+    "title": "Grave of the Fireflies",
+    "rank": 37,
+    "release_year": 1988,
+    "rating": 8.5,
+    "vote_count": 348401,
+    "description": "A young boy and his little sister struggle to survive in Japan during World War II.",
+    "genres": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNTY5MmE2OGMtN2IxNC00MDY4LTkwMGEtZDUzOTYyNWE0ZTNjXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:28:00",
+    "imdb_id": "tt0095327",
+    "country": "Japan"
+  },
+  {
+    "id": "tt2582802",
+    "title": "Whiplash",
+    "rank": 39,
+    "release_year": 2014,
+    "rating": 8.5,
+    "vote_count": 1072956,
+    "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDFjOWFkYzktYzhhMC00NmYyLTkwY2EtYjViMDhmNzg0OGFkXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:46:00",
+    "imdb_id": "tt2582802",
+    "country": "United States"
+  },
+  {
+    "id": "tt0056058",
+    "title": "Harakiri",
+    "rank": 40,
+    "release_year": 1962,
+    "rating": 8.6,
+    "vote_count": 79460,
+    "description": "When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZThiZjU5ZDQtZDI4Mi00ZGYyLTkzOTktYmIzZTFlZTkxYzg5XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:13:00",
+    "imdb_id": "tt0056058",
+    "country": "Japan"
+  },
+  {
+    "id": "tt0120586",
+    "title": "American History X",
+    "rank": 41,
+    "release_year": 1998,
+    "rating": 8.5,
+    "vote_count": 1230353,
+    "description": "Living a life marked by violence, neo-Nazi Derek finally goes to prison after killing two black youths. Upon his release, Derek vows to change; he hopes to prevent his brother, Danny, who idolizes Derek, from following in his footsteps.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMzhiOTQ0NDItOTg0Zi00OGVmLWE0OGEtMTI4NDM0NWMxZWU4XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:59:00",
+    "imdb_id": "tt0120586",
+    "country": "United States"
+  },
+  {
+    "id": "tt9362722",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "rank": 44,
+    "release_year": 2023,
+    "rating": 8.5,
+    "vote_count": 453998,
+    "description": "Traveling across the multiverse, Miles Morales meets a new team of Spider-People, made up of heroes from different dimensions. But when the heroes clash over how to deal with a new threat, Miles finds himself at a crossroads.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNThiZjA3MjItZGY5Ni00ZmJhLWEwN2EtOTBlYTA4Y2E0M2ZmXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:20:00",
+    "imdb_id": "tt9362722",
+    "country": "United States"
+  },
+  {
+    "id": "tt0034583",
+    "title": "Casablanca",
+    "rank": 45,
+    "release_year": 1942,
+    "rating": 8.5,
+    "vote_count": 630798,
+    "description": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNWEzN2U1YTYtYTQyMS00NTVkLWE2NGQtZWFlMmM0MDNjMmRiXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:42:00",
+    "imdb_id": "tt0034583",
+    "country": "United States"
+  },
+  {
+    "id": "tt1675434",
+    "title": "The Intouchables",
+    "rank": 47,
+    "release_year": 2011,
+    "rating": 8.5,
+    "vote_count": 977445,
+    "description": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_.jpg",
+    "runtime": "1:52:00",
+    "imdb_id": "tt1675434",
+    "country": "France"
+  },
+  {
+    "id": "tt0027977",
+    "title": "Modern Times",
+    "rank": 50,
+    "release_year": 1936,
+    "rating": 8.5,
+    "vote_count": 272704,
+    "description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BODVkZGFhNGQtYjdiYi00Njc4LWFmYTItNTlmNzJjMTg1ZDc5XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:27:00",
+    "imdb_id": "tt0027977",
+    "country": "United States"
+  },
+  {
+    "id": "tt0047396",
+    "title": "Rear Window",
+    "rank": 51,
+    "release_year": 1954,
+    "rating": 8.5,
+    "vote_count": 545754,
+    "description": "A bored photographer recovering from a broken leg passes the time by watching his neighbors and begins to suspect one of them of murder.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BODZhOWI1ODgtMzdiOS00YjNkLTgwOGUtYmIyZDg5ZmQwMzQ1XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:52:00",
+    "imdb_id": "tt0047396",
+    "country": "United States"
+  },
+  {
+    "id": "tt1853728",
+    "title": "Django Unchained",
+    "rank": 53,
+    "release_year": 2012,
+    "rating": 8.5,
+    "vote_count": 1789861,
+    "description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+    "genres": [
+      "Western"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
+    "runtime": "2:45:00",
+    "imdb_id": "tt1853728",
+    "country": "United States"
+  },
+  {
+    "id": "tt0021749",
+    "title": "City Lights",
+    "rank": 54,
+    "release_year": 1931,
+    "rating": 8.5,
+    "vote_count": 206818,
+    "description": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BM2U4NjgzODUtODkyOC00YTE2LTlhNTItYzFlYmM1NTEzZDA2XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:27:00",
+    "imdb_id": "tt0021749",
+    "country": "United States"
+  },
+  {
+    "id": "tt0078788",
+    "title": "Apocalypse Now",
+    "rank": 55,
+    "release_year": 1979,
+    "rating": 8.4,
+    "vote_count": 741666,
+    "description": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "War"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZDhiMTljYjYtODc1Yy00MmEwLTg2OTYtYmE1YTRmNDE4MmEwXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:27:00",
+    "imdb_id": "tt0078788",
+    "country": "United States"
+  },
+  {
+    "id": "tt0209144",
+    "title": "Memento",
+    "rank": 58,
+    "release_year": 2000,
+    "rating": 8.4,
+    "vote_count": 1377915,
+    "description": "A former insurance investigator who now suffers from anterograde amnesia uses notes and tattoos to hunt down his wife's murderer.",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYmQ3MjliNjAtNWFiZS00YWI1LTlmZTktMzBiNDE1NjRhZjU0XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:53:00",
+    "imdb_id": "tt0209144",
+    "country": "United States"
+  },
+  {
+    "id": "tt0082971",
+    "title": "Raiders of the Lost Ark",
+    "rank": 59,
+    "release_year": 1981,
+    "rating": 8.4,
+    "vote_count": 1073575,
+    "description": "In 1936, archaeologists and adventurers of the U.S. government hired Indiana Jones to find the Ark of the Covenant before the Nazis could obtain its extraordinary powers.",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:55:00",
+    "imdb_id": "tt0082971",
+    "country": "United States"
+  },
+  {
+    "id": "tt0043014",
+    "title": "Sunset Boulevard",
+    "rank": 62,
+    "release_year": 1950,
+    "rating": 8.4,
+    "vote_count": 248708,
+    "description": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+    "genres": [
+      "Drama",
+      "Film-Noir"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_.jpg",
+    "runtime": "1:50:00",
+    "imdb_id": "tt0043014",
+    "country": "United States"
+  },
+  {
+    "id": "tt0051201",
+    "title": "Witness for the Prosecution",
+    "rank": 64,
+    "release_year": 1957,
+    "rating": 8.4,
+    "vote_count": 149801,
+    "description": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNjRhNTQzMzQtMWViMi00ODQ1LTg0MTEtYWE4ZWZlYjM4YjJhXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:56:00",
+    "imdb_id": "tt0051201",
+    "country": "United States"
+  },
+  {
+    "id": "tt0050825",
+    "title": "Paths of Glory",
+    "rank": 65,
+    "release_year": 1957,
+    "rating": 8.4,
+    "vote_count": 225828,
+    "description": "A colonel defends three of his soldiers in a court-martial after they abandon a suicidal attack.",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNmQ2NmI2ODYtMDQzNS00NzQyLTkzZjgtZmZlYTQ5MTc1OWU3XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:28:00",
+    "imdb_id": "tt0050825",
+    "country": "United States"
+  },
+  {
+    "id": "tt0032553",
+    "title": "The Great Dictator",
+    "rank": 67,
+    "release_year": 1940,
+    "rating": 8.4,
+    "vote_count": 248619,
+    "description": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjc4ZjEwNDUtMjlmZS00NzQ4LTg2N2MtMGI3ZjMyMmM3ZDM2XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:05:00",
+    "imdb_id": "tt0032553",
+    "country": "United States"
+  },
+  {
+    "id": "tt23849204",
+    "title": "12th Fail",
+    "rank": 68,
+    "release_year": 2023,
+    "rating": 8.8,
+    "vote_count": 147152,
+    "description": "The real-life story of IPS Officer Manoj Kumar Sharma and IRS Officer Shraddha Joshi.",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNTE3OTIxZDYtNjA0NC00N2YxLTg1NGQtOTYxNmZkMDkwOWNjXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:27:00",
+    "imdb_id": "tt23849204",
+    "country": "India"
+  },
+  {
+    "id": "tt0114709",
+    "title": "Toy Story",
+    "rank": 74,
+    "release_year": 1995,
+    "rating": 8.3,
+    "vote_count": 1121675,
+    "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:21:00",
+    "imdb_id": "tt0114709",
+    "country": "United States"
+  },
+  {
+    "id": "tt4154796",
+    "title": "Avengers: Endgame",
+    "rank": 75,
+    "release_year": 2019,
+    "rating": 8.4,
+    "vote_count": 1355674,
+    "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+    "runtime": "3:01:00",
+    "imdb_id": "tt4154796",
+    "country": "United States"
+  },
+  {
+    "id": "tt0119217",
+    "title": "Good Will Hunting",
+    "rank": 76,
+    "release_year": 1997,
+    "rating": 8.3,
+    "vote_count": 1136577,
+    "description": "Will Hunting, a janitor at MIT, has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDdjZGQ5YzEtNTc2My00Mjc0LWFlMTctYzkwMzZlNzdiZWYzXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:06:00",
+    "imdb_id": "tt0119217",
+    "country": "United States"
+  },
+  {
+    "id": "tt0364569",
+    "title": "Oldboy",
+    "rank": 77,
+    "release_year": 2003,
+    "rating": 8.3,
+    "vote_count": 678362,
+    "description": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must track down his captor in five days.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_.jpg",
+    "runtime": "2:00:00",
+    "imdb_id": "tt0364569",
+    "country": "South Korea"
+  },
+  {
+    "id": "tt0082096",
+    "title": "Das Boot",
+    "rank": 79,
+    "release_year": 1981,
+    "rating": 8.4,
+    "vote_count": 279067,
+    "description": "A German U-boat stalks the frigid waters of the North Atlantic as its young crew experience the sheer terror and claustrophobic life of a submariner in World War II.",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNGU0MWZlMTUtM2Y3Ny00NGNmLWE5NmEtN2YxOWQzMGM3ZWYzXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:29:00",
+    "imdb_id": "tt0082096",
+    "country": "West Germany"
+  },
+  {
+    "id": "tt0169547",
+    "title": "American Beauty",
+    "rank": 80,
+    "release_year": 1999,
+    "rating": 8.3,
+    "vote_count": 1248247,
+    "description": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDI1MDE0OTMtMmI2MS00Yjc2LTg2MTItMWExYTg5NzA1OGUzXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:02:00",
+    "imdb_id": "tt0169547",
+    "country": "United States"
+  },
+  {
+    "id": "tt0112573",
+    "title": "Braveheart",
+    "rank": 81,
+    "release_year": 1995,
+    "rating": 8.3,
+    "vote_count": 1128812,
+    "description": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+    "genres": [
+      "Biography",
+      "Drama",
+      "War"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNGMxZDBhNGQtYTZlNi00N2UzLWI4NDEtNmUzNWM2NTdmZDA0XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:58:00",
+    "imdb_id": "tt0112573",
+    "country": "United States"
+  },
+  {
+    "id": "tt0119698",
+    "title": "Princess Mononoke",
+    "rank": 82,
+    "release_year": 1997,
+    "rating": 8.3,
+    "vote_count": 459911,
+    "description": "While seeking to cure himself of a curse, young warrior Ashitaka stumbles into a conflict between the people of Iron Town and Princess Mononoke, a girl raised by wolves, who will stop at nothing to prevent the destruction of her home.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNjAzODViNGEtMjBkYi00N2U5LWJjNjAtY2U0MGJhZTEwOTU0XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:13:00",
+    "imdb_id": "tt0119698",
+    "country": "Japan"
+  },
+  {
+    "id": "tt5311514",
+    "title": "Your Name.",
+    "rank": 83,
+    "release_year": 2016,
+    "rating": 8.4,
+    "vote_count": 356412,
+    "description": "Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person.",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjI1ODZkYTgtYTY3Yy00ZTJkLWFkOTgtZDUyYWM4MzQwNjk0XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:46:00",
+    "imdb_id": "tt5311514",
+    "country": "Japan"
+  },
+  {
+    "id": "tt0057565",
+    "title": "High and Low",
+    "rank": 84,
+    "release_year": 1963,
+    "rating": 8.4,
+    "vote_count": 60083,
+    "description": "An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur's son is kidnapped by mistake and held for ransom.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTFmOTNjYjUtMDA2MC00ZTJiLThiYzktNDdjNzQwMjNkN2NmXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:23:00",
+    "imdb_id": "tt0057565",
+    "country": "Japan"
+  },
+  {
+    "id": "tt1187043",
+    "title": "3 Idiots",
+    "rank": 85,
+    "release_year": 2009,
+    "rating": 8.4,
+    "vote_count": 458131,
+    "description": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzc4ZWQ3NmYtODE0Ny00YTQ4LTlkZWItNTBkMGQ0MmUwMmJlXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:50:00",
+    "imdb_id": "tt1187043",
+    "country": "India"
+  },
+  {
+    "id": "tt0045152",
+    "title": "Singin' in the Rain",
+    "rank": 89,
+    "release_year": 1952,
+    "rating": 8.3,
+    "vote_count": 272380,
+    "description": "A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.",
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMGQzZDFjZWUtZDU4ZS00ZjM3LTgyYmItYjA3YmIwYzRkZWY3XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:43:00",
+    "imdb_id": "tt0045152",
+    "country": "United States"
+  },
+  {
+    "id": "tt0252488",
+    "title": "The Chaos Class Failed the Class",
+    "rank": 90,
+    "release_year": 1975,
+    "rating": 8.8,
+    "vote_count": 26328,
+    "description": "A young and beautiful female teacher starts working in an all boys high school.",
+    "genres": [
+      "Comedy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZmY3MjVhMmQtOTcwYy00ZjcyLWFiZDgtN2JiODVjNjQzYWQyXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:35:00",
+    "imdb_id": "tt0252488",
+    "country": "Turkey"
+  },
+  {
+    "id": "tt0091251",
+    "title": "Come and See",
+    "rank": 91,
+    "release_year": 1985,
+    "rating": 8.3,
+    "vote_count": 111653,
+    "description": "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDlkZmVkZDAtZGFmMS00OWIzLWJkY2YtNWE5NjNhNjhiZGE3XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:22:00",
+    "imdb_id": "tt0091251",
+    "country": "Soviet Union"
+  },
+  {
+    "id": "tt0180093",
+    "title": "Requiem for a Dream",
+    "rank": 92,
+    "release_year": 2000,
+    "rating": 8.3,
+    "vote_count": 938193,
+    "description": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BN2ZlMjIzZjctYzA2My00ZWYyLWI4ZjctMGI2NWYyNzFiZjAwXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:42:00",
+    "imdb_id": "tt0180093",
+    "country": "United States"
+  },
+  {
+    "id": "tt0086190",
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "rank": 93,
+    "release_year": 1983,
+    "rating": 8.3,
+    "vote_count": 1163947,
+    "description": "After rescuing Han Solo from Jabba the Hutt, the Rebel Alliance attempts to destroy the second Death Star while Luke struggles to help Darth Vader back from the dark side.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNWEwOTI0MmUtMGNmNy00ODViLTlkZDQtZTg1YmQ3MDgyNTUzXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:11:00",
+    "imdb_id": "tt0086190",
+    "country": "United States"
+  },
+  {
+    "id": "tt0435761",
+    "title": "Toy Story 3",
+    "rank": 94,
+    "release_year": 2010,
+    "rating": 8.3,
+    "vote_count": 931059,
+    "description": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_.jpg",
+    "runtime": "1:43:00",
+    "imdb_id": "tt0435761",
+    "country": "United States"
+  },
+  {
+    "id": "tt0044741",
+    "title": "Ikiru",
+    "rank": 96,
+    "release_year": 1952,
+    "rating": 8.3,
+    "vote_count": 96280,
+    "description": "A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZTk4OGEwNDQtOGI2MC00MTU2LTk0YTEtNmU5NTIxMWNkNDhlXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:23:00",
+    "imdb_id": "tt0044741",
+    "country": "Japan"
+  },
+  {
+    "id": "tt0338013",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "rank": 97,
+    "release_year": 2004,
+    "rating": 8.3,
+    "vote_count": 1135663,
+    "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories forever.",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg",
+    "runtime": "1:48:00",
+    "imdb_id": "tt0338013",
+    "country": "United States"
+  },
+  {
+    "id": "tt0105236",
+    "title": "Reservoir Dogs",
+    "rank": 99,
+    "release_year": 1992,
+    "rating": 8.3,
+    "vote_count": 1131791,
+    "description": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:39:00",
+    "imdb_id": "tt0105236",
+    "country": "United States"
+  },
+  {
+    "id": "tt0053604",
+    "title": "The Apartment",
+    "rank": 101,
+    "release_year": 1960,
+    "rating": 8.3,
+    "vote_count": 208764,
+    "description": "A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but office politics and his own romantic hopes complicate matters.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDdhMzVhOWQtNDU2Mi00ZmZmLWJiZDMtY2QxMjhjY2Y1ZTI5XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:05:00",
+    "imdb_id": "tt0053604",
+    "country": "United States"
+  },
+  {
+    "id": "tt0086250",
+    "title": "Scarface",
+    "rank": 103,
+    "release_year": 1983,
+    "rating": 8.3,
+    "vote_count": 964715,
+    "description": "In the 1980s, a determined criminal-minded Cuban immigrant becomes the biggest drug smuggler in Miami, and is eventually undone by his own drug addiction.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDUzYjY0NmUtMDM4OS00Y2Q5LWJiODYtNTk0ZTk0YjZhMTg1XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:50:00",
+    "imdb_id": "tt0086250",
+    "country": "United States"
+  },
+  {
+    "id": "tt0036775",
+    "title": "Double Indemnity",
+    "rank": 104,
+    "release_year": 1944,
+    "rating": 8.3,
+    "vote_count": 174724,
+    "description": "An insurance representative is seduced by a dissatisfied housewife into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, a claims investigator.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BM2YwNjZlZDktNTlmNS00ODQwLWJmNmUtYmE1NTBhYjc1YTY5XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:47:00",
+    "imdb_id": "tt0036775",
+    "country": "United States"
+  },
+  {
+    "id": "tt0113277",
+    "title": "Heat",
+    "rank": 105,
+    "release_year": 1995,
+    "rating": 8.3,
+    "vote_count": 757431,
+    "description": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a verbal clue at their latest heist.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTkxYjU1OTMtYWViZC00ZjAzLWI3MDktZGQ2N2VmMjVjNDRlXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:50:00",
+    "imdb_id": "tt0113277",
+    "country": "United States"
+  },
+  {
+    "id": "tt0053125",
+    "title": "North by Northwest",
+    "rank": 106,
+    "release_year": 1959,
+    "rating": 8.3,
+    "vote_count": 360174,
+    "description": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Mystery"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZWIzODI2OGItMzM0Ny00OGRmLTlkNmItMDQxMTFmMTk3YmQwXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:16:00",
+    "imdb_id": "tt0053125",
+    "country": "United States"
+  },
+  {
+    "id": "tt1049413",
+    "title": "Up",
+    "rank": 107,
+    "release_year": 2009,
+    "rating": 8.3,
+    "vote_count": 1180848,
+    "description": "78-year-old Carl Fredricksen travels to South America in his house equipped with balloons, inadvertently taking a young stowaway.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNmI1ZTc5MWMtMDYyOS00ZDc2LTkzOTAtNjQ4NWIxNjYyNDgzXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:36:00",
+    "imdb_id": "tt1049413",
+    "country": "United States"
+  },
+  {
+    "id": "tt0033467",
+    "title": "Citizen Kane",
+    "rank": 108,
+    "release_year": 1941,
+    "rating": 8.3,
+    "vote_count": 480717,
+    "description": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYjk1ZDJlMmUtOWQ0Zi00MDM5LTk1OGYtODczNjFmMGYwZGVkXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:59:00",
+    "imdb_id": "tt0033467",
+    "country": "United States"
+  },
+  {
+    "id": "tt0022100",
+    "title": "M",
+    "rank": 109,
+    "release_year": 1931,
+    "rating": 8.3,
+    "vote_count": 176923,
+    "description": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_.jpg",
+    "runtime": "1:39:00",
+    "imdb_id": "tt0022100",
+    "country": "Germany"
+  },
+  {
+    "id": "tt0052357",
+    "title": "Vertigo",
+    "rank": 111,
+    "release_year": 1958,
+    "rating": 8.2,
+    "vote_count": 444723,
+    "description": "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.",
+    "genres": [
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzEyZTUxMWItMGVhYy00Y2NlLTljYTMtYzBmMzI1YmUyMDBkXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:08:00",
+    "imdb_id": "tt0052357",
+    "country": "United States"
+  },
+  {
+    "id": "tt0056592",
+    "title": "To Kill a Mockingbird",
+    "rank": 114,
+    "release_year": 1962,
+    "rating": 8.3,
+    "vote_count": 343110,
+    "description": "A widowed lawyer in Depression-era Alabama defends a black man against a false rape charge while teaching his young children about the sad reality of prejudice.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZTlkYWU4MGEtZmQyYi00OWEzLTgzY2EtYzVjOTEzYzAyNTk1XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:09:00",
+    "imdb_id": "tt0056592",
+    "country": "United States"
+  },
+  {
+    "id": "tt0986264",
+    "title": "Like Stars on Earth",
+    "rank": 116,
+    "release_year": 2007,
+    "rating": 8.3,
+    "vote_count": 217630,
+    "description": "A young boy is thought to be nothing but a lazy troublemaker until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZTI0ZGRiMDEtNGNjMS00MGU4LWI3OTktNzcxMDZmZTk3MTljXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:42:00",
+    "imdb_id": "tt0986264",
+    "country": "India"
+  },
+  {
+    "id": "tt0095016",
+    "title": "Die Hard",
+    "rank": 117,
+    "release_year": 1988,
+    "rating": 8.2,
+    "vote_count": 989671,
+    "description": "A New York City police officer tries to save his estranged wife and several others taken hostage by terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMGNlYmM1NmQtYWExMS00NmRjLTg5ZmEtMmYyYzJkMzljYWMxXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:12:00",
+    "imdb_id": "tt0095016",
+    "country": "United States"
+  },
+  {
+    "id": "tt0070735",
+    "title": "The Sting",
+    "rank": 118,
+    "release_year": 1973,
+    "rating": 8.3,
+    "vote_count": 290204,
+    "description": "Two grifters team up to pull off the ultimate con.",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZGI4OTk4MDMtYmQ1Ni00YTUzLTkyYTktZGUwMjMyN2M4NjQ5XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:09:00",
+    "imdb_id": "tt0070735",
+    "country": "United States"
+  },
+  {
+    "id": "tt0097576",
+    "title": "Indiana Jones and the Last Crusade",
+    "rank": 119,
+    "release_year": 1989,
+    "rating": 8.2,
+    "vote_count": 838144,
+    "description": "In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis again to stop them from obtaining its powers.",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:07:00",
+    "imdb_id": "tt0097576",
+    "country": "United States"
+  },
+  {
+    "id": "tt0017136",
+    "title": "Metropolis",
+    "rank": 121,
+    "release_year": 1927,
+    "rating": 8.3,
+    "vote_count": 194241,
+    "description": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjhjMGYyMjAtMzJkYy00NzhlLWIwY2MtMWQ2ODIxZDUyOGYyXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:33:00",
+    "imdb_id": "tt0017136",
+    "country": "Germany"
+  },
+  {
+    "id": "tt0119488",
+    "title": "L.A. Confidential",
+    "rank": 124,
+    "release_year": 1997,
+    "rating": 8.2,
+    "vote_count": 640760,
+    "description": "As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BODdiMjY1OGYtNDk0NC00NGQ1LWI4MDItOTJhMTM0YjE1YTAzXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:18:00",
+    "imdb_id": "tt0119488",
+    "country": "United States"
+  },
+  {
+    "id": "tt0040522",
+    "title": "Bicycle Thieves",
+    "rank": 125,
+    "release_year": 1948,
+    "rating": 8.2,
+    "vote_count": 185251,
+    "description": "In post-war Italy, a working-class man's bicycle is stolen, endangering his efforts to find work. He and his son set out to find it.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjIzMzAyMzg1Nl5BMl5BanBnXkFtZTgwMzMyNzk0MTE@._V1_.jpg",
+    "runtime": "1:29:00",
+    "imdb_id": "tt0040522",
+    "country": "Italy"
+  },
+  {
+    "id": "tt0993846",
+    "title": "The Wolf of Wall Street",
+    "rank": 128,
+    "release_year": 2013,
+    "rating": 8.2,
+    "vote_count": 1685251,
+    "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
+    "runtime": "3:00:00",
+    "imdb_id": "tt0993846",
+    "country": "United States"
+  },
+  {
+    "id": "tt8503618",
+    "title": "Hamilton",
+    "rank": 129,
+    "release_year": 2020,
+    "rating": 8.3,
+    "vote_count": 127384,
+    "description": "The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYzBhOWY4ZTktMjE2NS00ZGIyLWJkOGMtNDQyN2JjZWFiODdiXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:40:00",
+    "imdb_id": "tt8503618",
+    "country": "United States"
+  },
+  {
+    "id": "tt0075314",
+    "title": "Taxi Driver",
+    "rank": 130,
+    "release_year": 1976,
+    "rating": 8.2,
+    "vote_count": 978033,
+    "description": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZDNhMGYwM2UtMTdlZS00MGQ1LWI2YzAtODY5YWI1MjYyNzRmXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:54:00",
+    "imdb_id": "tt0075314",
+    "country": "United States"
+  },
+  {
+    "id": "tt0120382",
+    "title": "The Truman Show",
+    "rank": 134,
+    "release_year": 1998,
+    "rating": 8.2,
+    "vote_count": 1279032,
+    "description": "An insurance salesman begins to suspect that his whole life is actually some sort of reality TV show.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzA3ZjZlNzYtMTdjMy00NjMzLTk5ZGYtMTkyYzNiOGM1YmM3XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:43:00",
+    "imdb_id": "tt0120382",
+    "country": "United States"
+  },
+  {
+    "id": "tt0055031",
+    "title": "Judgment at Nuremberg",
+    "rank": 135,
+    "release_year": 1961,
+    "rating": 8.3,
+    "vote_count": 91444,
+    "description": "Fictionalized depiction of the 1947 Judges' Trial, the third of 12 trials of Nazi war criminals conducted by the American occupying forces in Nuremberg, Germany, in which former judges of Nazi Germany were tried for their actions.",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_.jpg",
+    "runtime": "2:59:00",
+    "imdb_id": "tt0055031",
+    "country": "United States"
+  },
+  {
+    "id": "tt0053291",
+    "title": "Some Like It Hot",
+    "rank": 136,
+    "release_year": 1959,
+    "rating": 8.2,
+    "vote_count": 294876,
+    "description": "After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+    "genres": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZTllZDYyNjEtY2RmMS00NmJhLWI4ODAtMTQ0NWFiZTJhZjA0XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:01:00",
+    "imdb_id": "tt0053291",
+    "country": "United States"
+  },
+  {
+    "id": "tt0012349",
+    "title": "The Kid",
+    "rank": 138,
+    "release_year": 1921,
+    "rating": 8.2,
+    "vote_count": 141095,
+    "description": "The Tramp cares for an abandoned child, but events put their relationship in jeopardy.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNjkxMzY1NTQtN2YwOS00NmIwLTlkNTMtMjNkMzk1ZTk3ZDU2XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:08:00",
+    "imdb_id": "tt0012349",
+    "country": "United States"
+  },
+  {
+    "id": "tt0042192",
+    "title": "All About Eve",
+    "rank": 140,
+    "release_year": 1950,
+    "rating": 8.2,
+    "vote_count": 144610,
+    "description": "A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTM4ZjUzOGUtYzdlZi00ZmM5LTk5NTEtMjQxNDVmOTc5NWNlXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:18:00",
+    "imdb_id": "tt0042192",
+    "country": "United States"
+  },
+  {
+    "id": "tt0107290",
+    "title": "Jurassic Park",
+    "rank": 141,
+    "release_year": 1993,
+    "rating": 8.2,
+    "vote_count": 1118554,
+    "description": "An industrialist invites some experts to visit his theme park of cloned dinosaurs. After a power failure, the creatures run loose, putting everyone's lives, including his grandchildren's, in danger.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",
+    "runtime": "2:07:00",
+    "imdb_id": "tt0107290",
+    "country": "United States"
+  },
+  {
+    "id": "tt0469494",
+    "title": "There Will Be Blood",
+    "rank": 142,
+    "release_year": 2007,
+    "rating": 8.2,
+    "vote_count": 670517,
+    "description": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_.jpg",
+    "runtime": "2:38:00",
+    "imdb_id": "tt0469494",
+    "country": "United States"
+  },
+  {
+    "id": "tt0167404",
+    "title": "The Sixth Sense",
+    "rank": 144,
+    "release_year": 1999,
+    "rating": 8.2,
+    "vote_count": 1098703,
+    "description": "After being shot by a resentful former patient whom he failed to help, a Philadelphia child psychologist seeks redemption by treating a young boy with a disturbing secret.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:47:00",
+    "imdb_id": "tt0167404",
+    "country": "United States"
+  },
+  {
+    "id": "tt1745960",
+    "title": "Top Gun: Maverick",
+    "rank": 146,
+    "release_year": 2022,
+    "rating": 8.2,
+    "vote_count": 774366,
+    "description": "The story involves Maverick confronting his past while training a group of younger Top Gun graduates, including the son of his deceased best friend, for a dangerous mission.",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDBkZDNjMWEtOTdmMi00NmExLTg5MmMtNTFlYTJlNWY5YTdmXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:10:00",
+    "imdb_id": "tt1745960",
+    "country": "United States"
+  },
+  {
+    "id": "tt0477348",
+    "title": "No Country for Old Men",
+    "rank": 147,
+    "release_year": 2007,
+    "rating": 8.2,
+    "vote_count": 1121022,
+    "description": "Violence and mayhem ensue after a hunter stumbles upon the aftermath of a drug deal gone wrong and over two million dollars in cash near the Rio Grande.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_.jpg",
+    "runtime": "2:02:00",
+    "imdb_id": "tt0477348",
+    "country": "United States"
+  },
+  {
+    "id": "tt0105695",
+    "title": "Unforgiven",
+    "rank": 150,
+    "release_year": 1992,
+    "rating": 8.2,
+    "vote_count": 454157,
+    "description": "Retired Old West gunslinger Will Munny reluctantly takes on one last job to avenge an injustice with the help of his old partner and a newer outlaw known simply as The Schofield Kid.",
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNmZmMzM3YWMtZjg5Yi00M2MxLTg3ZGItNGU4YjQxNDAxM2Q4XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:10:00",
+    "imdb_id": "tt0105695",
+    "country": "United States"
+  },
+  {
+    "id": "tt0268978",
+    "title": "A Beautiful Mind",
+    "rank": 151,
+    "release_year": 2001,
+    "rating": 8.2,
+    "vote_count": 1021434,
+    "description": "A mathematical genius, John Nash made an astonishing discovery early in his career and stood on the brink of international acclaim. But the handsome and arrogant Nash soon found himself on a harrowing journey of self-discovery.",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Mystery"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzljZTk5ZDgtZTQ1Zi00NTM4LThlOGUtZDk2MGM4NDQ4NWQyXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:15:00",
+    "imdb_id": "tt0268978",
+    "country": "United States"
+  },
+  {
+    "id": "tt0266697",
+    "title": "Kill Bill: Vol. 1",
+    "rank": 152,
+    "release_year": 2003,
+    "rating": 8.2,
+    "vote_count": 1249959,
+    "description": "After waking from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZmMyYzJlZmYtY2I3NC00NjAyLTkyZWItZjdjZDI1YTYyYTEwXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:51:00",
+    "imdb_id": "tt0266697",
+    "country": "United States"
+  },
+  {
+    "id": "tt0040897",
+    "title": "The Treasure of the Sierra Madre",
+    "rank": 153,
+    "release_year": 1948,
+    "rating": 8.2,
+    "vote_count": 137277,
+    "description": "Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOWM1YjFmODEtMWNhMC00YmI1LWI0Y2EtYzg0YTBhZWI4ODE3XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:06:00",
+    "imdb_id": "tt0040897",
+    "country": "United States"
+  },
+  {
+    "id": "tt1392214",
+    "title": "Prisoners",
+    "rank": 154,
+    "release_year": 2013,
+    "rating": 8.2,
+    "vote_count": 870689,
+    "description": "A desperate father takes the law into his own hands after police fail to find two kidnapped girls.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_.jpg",
+    "runtime": "2:33:00",
+    "imdb_id": "tt1392214",
+    "country": "United States"
+  },
+  {
+    "id": "tt0055630",
+    "title": "Yojimbo",
+    "rank": 155,
+    "release_year": 1961,
+    "rating": 8.2,
+    "vote_count": 137533,
+    "description": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYzFkODA1N2QtY2UyMC00NTMwLWEyNzctMmE3YjIzNzE1MzY4XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:50:00",
+    "imdb_id": "tt0055630",
+    "country": "Japan"
+  },
+  {
+    "id": "tt0057115",
+    "title": "The Great Escape",
+    "rank": 158,
+    "release_year": 1963,
+    "rating": 8.2,
+    "vote_count": 268467,
+    "description": "Allied officers in a German prisoner of war camp during World War II making a daring plan for a mass escape by hundreds of their men, hoping to draw German personnel and resources away from combat operations.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDRhNmJjMzEtMWU5MC00YmEyLTg3ZmYtNzYxZTI1ZGU4ZjI1XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:52:00",
+    "imdb_id": "tt0057115",
+    "country": "United States"
+  },
+  {
+    "id": "tt0071853",
+    "title": "Monty Python and the Holy Grail",
+    "rank": 159,
+    "release_year": 1975,
+    "rating": 8.2,
+    "vote_count": 587561,
+    "description": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYWY4YmUzZmUtMzQ0ZS00N2Y2LWJlODQtN2IwMDc1MWQwMmU3XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:31:00",
+    "imdb_id": "tt0071853",
+    "country": "United Kingdom"
+  },
+  {
+    "id": "tt0046912",
+    "title": "Dial M for Murder",
+    "rank": 161,
+    "release_year": 1954,
+    "rating": 8.2,
+    "vote_count": 197719,
+    "description": "A London playboy plots the perfect murder of his rich, unfaithful Wife.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZmYzNDgzYjgtNmU3Ny00YzUxLWE3OWUtMjIxZmNkYTVhNDZmXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:45:00",
+    "imdb_id": "tt0046912",
+    "country": "United States"
+  },
+  {
+    "id": "tt0031381",
+    "title": "Gone with the Wind",
+    "rank": 163,
+    "release_year": 1939,
+    "rating": 8.2,
+    "vote_count": 346258,
+    "description": "A sheltered and manipulative Southern belle and a roguish profiteer face off in a turbulent romance as the society around them crumbles with the end of slavery and is rebuilt during the Civil War and Reconstruction periods.",
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYmYxZTE3YzMtYmE2Yy00NmFlLTkzYTAtYTAzN2IzNDFkN2E0XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "3:58:00",
+    "imdb_id": "tt0031381",
+    "country": "United States"
+  },
+  {
+    "id": "tt0042876",
+    "title": "Rashomon",
+    "rank": 164,
+    "release_year": 1950,
+    "rating": 8.2,
+    "vote_count": 189278,
+    "description": "The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZDlkYjViMDAtYjkxNy00ZDk1LWE5MmUtNDc4NDU3ZWJmOTYzXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:28:00",
+    "imdb_id": "tt0042876",
+    "country": "Japan"
+  },
+  {
+    "id": "tt0071315",
+    "title": "Chinatown",
+    "rank": 165,
+    "release_year": 1974,
+    "rating": 8.1,
+    "vote_count": 364785,
+    "description": "A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNmRmZTE0NmUtZjhiZi00MzQ3LTk3ZjctN2Q3ODYzY2U3MDk3XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:10:00",
+    "imdb_id": "tt0071315",
+    "country": "United States"
+  },
+  {
+    "id": "tt2096673",
+    "title": "Inside Out",
+    "rank": 169,
+    "release_year": 2015,
+    "rating": 8.1,
+    "vote_count": 866628,
+    "description": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_.jpg",
+    "runtime": "1:35:00",
+    "imdb_id": "tt2096673",
+    "country": "United States"
+  },
+  {
+    "id": "tt0081398",
+    "title": "Raging Bull",
+    "rank": 174,
+    "release_year": 1980,
+    "rating": 8.1,
+    "vote_count": 395490,
+    "description": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjlkYmYyZWQtNTZkOS00ZjA0LWEwNWUtNzE2ZGNiYjg0MjA2XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:09:00",
+    "imdb_id": "tt0081398",
+    "country": "United States"
+  },
+  {
+    "id": "tt1291584",
+    "title": "Warrior",
+    "rank": 177,
+    "release_year": 2011,
+    "rating": 8.1,
+    "vote_count": 514167,
+    "description": "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_.jpg",
+    "runtime": "2:20:00",
+    "imdb_id": "tt1291584",
+    "country": "United States"
+  },
+  {
+    "id": "tt0405159",
+    "title": "Million Dollar Baby",
+    "rank": 180,
+    "release_year": 2004,
+    "rating": 8.1,
+    "vote_count": 745982,
+    "description": "Frankie, an ill-tempered old coach, reluctantly agrees to train aspiring boxer Maggie. Impressed with her determination and talent, he helps her become the best and the two soon form a close bond.",
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_.jpg",
+    "runtime": "2:12:00",
+    "imdb_id": "tt0405159",
+    "country": "United States"
+  },
+  {
+    "id": "tt0052618",
+    "title": "Ben-Hur",
+    "rank": 181,
+    "release_year": 1959,
+    "rating": 8.1,
+    "vote_count": 263303,
+    "description": "A Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, but it's not long before he regains his freedom and comes back for revenge.",
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNjg2M2E1YzYtOThmMC00NjAyLWI5MzgtMDEwOGFiODdlOGUzXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "3:32:00",
+    "imdb_id": "tt0052618",
+    "country": "United States"
+  },
+  {
+    "id": "tt0096283",
+    "title": "My Neighbor Totoro",
+    "rank": 183,
+    "release_year": 1988,
+    "rating": 8.1,
+    "vote_count": 407144,
+    "description": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYWM3MDE3YjEtMzIzZC00ODE5LTgxNTItNmUyMTBkM2M2NmNiXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:26:00",
+    "imdb_id": "tt0096283",
+    "country": "Japan"
+  },
+  {
+    "id": "tt10872600",
+    "title": "Spider-Man: No Way Home",
+    "rank": 184,
+    "release_year": 2021,
+    "rating": 8.2,
+    "vote_count": 950372,
+    "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:28:00",
+    "imdb_id": "tt10872600",
+    "country": "United States"
+  },
+  {
+    "id": "tt0097165",
+    "title": "Dead Poets Society",
+    "rank": 186,
+    "release_year": 1989,
+    "rating": 8.1,
+    "vote_count": 590515,
+    "description": "Maverick teacher John Keating returns in 1959 to the prestigious New England boys' boarding school where he was once a star student, using poetry to embolden his pupils to new heights of self-expression.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:08:00",
+    "imdb_id": "tt0097165",
+    "country": "United States"
+  },
+  {
+    "id": "tt0118849",
+    "title": "Children of Heaven",
+    "rank": 187,
+    "release_year": 1997,
+    "rating": 8.2,
+    "vote_count": 85676,
+    "description": "After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to \"win\" a new pair.",
+    "genres": [
+      "Drama",
+      "Family",
+      "Sport"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZWZlMjNhNzgtZGRhOS00Y2U5LThjOTctODNjZTI0ZTBiYzBhXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:29:00",
+    "imdb_id": "tt0118849",
+    "country": "Iran"
+  },
+  {
+    "id": "tt2119532",
+    "title": "Hacksaw Ridge",
+    "rank": 191,
+    "release_year": 2016,
+    "rating": 8.1,
+    "vote_count": 636676,
+    "description": "World War II American Army Medic Desmond T. Doss, serving during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_.jpg",
+    "runtime": "2:19:00",
+    "imdb_id": "tt2119532",
+    "country": "United States"
+  },
+  {
+    "id": "tt2267998",
+    "title": "Gone Girl",
+    "rank": 193,
+    "release_year": 2014,
+    "rating": 8.1,
+    "vote_count": 1120281,
+    "description": "The husband of a missing woman becomes the chief suspect in her disappearance.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_.jpg",
+    "runtime": "2:29:00",
+    "imdb_id": "tt2267998",
+    "country": "United States"
+  },
+  {
+    "id": "tt0353969",
+    "title": "Memories of Murder",
+    "rank": 194,
+    "release_year": 2003,
+    "rating": 8.1,
+    "vote_count": 240849,
+    "description": "In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYmRjOWE5NmMtYTdkYS00ODFlLWJiMTMtYzE2NDZlZjlkZDQ0XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:12:00",
+    "imdb_id": "tt0353969",
+    "country": "South Korea"
+  },
+  {
+    "id": "tt0382932",
+    "title": "Ratatouille",
+    "rank": 195,
+    "release_year": 2007,
+    "rating": 8.1,
+    "vote_count": 884436,
+    "description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_.jpg",
+    "runtime": "1:51:00",
+    "imdb_id": "tt0382932",
+    "country": "United States"
+  },
+  {
+    "id": "tt0198781",
+    "title": "Monsters, Inc.",
+    "rank": 196,
+    "release_year": 2001,
+    "rating": 8.1,
+    "vote_count": 1027221,
+    "description": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_.jpg",
+    "runtime": "1:32:00",
+    "imdb_id": "tt0198781",
+    "country": "United States"
+  },
+  {
+    "id": "tt0015864",
+    "title": "The Gold Rush",
+    "rank": 200,
+    "release_year": 1925,
+    "rating": 8.1,
+    "vote_count": 123786,
+    "description": "A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune, and is smitten with a girl he sees in a dance hall.",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNGU1NjYzYTAtZmY0YS00NWIzLTkzNzUtYzc2ZTIyOTIxZjVhXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:35:00",
+    "imdb_id": "tt0015864",
+    "country": "United States"
+  },
+  {
+    "id": "tt0015324",
+    "title": "Sherlock Jr.",
+    "rank": 201,
+    "release_year": 1924,
+    "rating": 8.2,
+    "vote_count": 61925,
+    "description": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjQzM2E2NjYtYmRjMC00ZmVlLTljZTgtNmQ5MGZlNDYyZTc5XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "0:45:00",
+    "imdb_id": "tt0015324",
+    "country": "United States"
+  },
+  {
+    "id": "tt0073195",
+    "title": "Jaws",
+    "rank": 202,
+    "release_year": 1975,
+    "rating": 8.1,
+    "vote_count": 693873,
+    "description": "When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Horror"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:04:00",
+    "imdb_id": "tt0073195",
+    "country": "United States"
+  },
+  {
+    "id": "tt0978762",
+    "title": "Mary and Max",
+    "rank": 203,
+    "release_year": 2009,
+    "rating": 8.1,
+    "vote_count": 195888,
+    "description": "In 1976 Melbourne, a lonely 8-year-old girl strikes up a correspondence with an unlikely pen pal: a severely obese 44-year-old New Yorker with Asperger's syndrome.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzY2Mjc4NjMtNGY4Mi00NzM5LTk3ZTQtN2VkNzVkMzRmM2Y2XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:32:00",
+    "imdb_id": "tt0978762",
+    "country": "Australia"
+  },
+  {
+    "id": "tt1950186",
+    "title": "Ford v Ferrari",
+    "rank": 205,
+    "release_year": 2019,
+    "rating": 8.1,
+    "vote_count": 522066,
+    "description": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTBjNTEyNjYtYjdkNi00YzE5LTljYzUtZjVlYmYwZmJmZWYxXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:32:00",
+    "imdb_id": "tt1950186",
+    "country": "United States"
+  },
+  {
+    "id": "tt0017925",
+    "title": "The General",
+    "rank": 206,
+    "release_year": 1926,
+    "rating": 8.1,
+    "vote_count": 102647,
+    "description": "After being rejected by the Confederate military, not realizing it was due to his crucial civilian role, an engineer must single-handedly recapture his beloved locomotive after it is seized by Union spies and return it through enemy lines.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTVhM2Y1MDUtMDkxYi00Y2UxLWI2MTMtZjMzYTY4ODM4MGIzXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:18:00",
+    "imdb_id": "tt0017925",
+    "country": "United States"
+  },
+  {
+    "id": "tt0031679",
+    "title": "Mr. Smith Goes to Washington",
+    "rank": 208,
+    "release_year": 1939,
+    "rating": 8.1,
+    "vote_count": 125910,
+    "description": "A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his character.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDU4ZjNmMjEtMjcxYi00NDAxLWFlMjQtNWIyNjg5NWUzNTdjXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:09:00",
+    "imdb_id": "tt0031679",
+    "country": "United States"
+  },
+  {
+    "id": "tt0047296",
+    "title": "On the Waterfront",
+    "rank": 209,
+    "release_year": 1954,
+    "rating": 8.1,
+    "vote_count": 172231,
+    "description": "An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of the syndicate's victims.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZDJlYTM1ZGYtZTM4YS00MzFhLThiZjktYzQ0ZjAzMGYwZTU3XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:48:00",
+    "imdb_id": "tt0047296",
+    "country": "United States"
+  },
+  {
+    "id": "tt0050986",
+    "title": "Wild Strawberries",
+    "rank": 210,
+    "release_year": 1957,
+    "rating": 8.1,
+    "vote_count": 120374,
+    "description": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZWQ5MDllM2EtZWRmNS00MmZiLWI4ZWQtMjRiY2Q5MTAxODY4XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:32:00",
+    "imdb_id": "tt0050986",
+    "country": "Sweden"
+  },
+  {
+    "id": "tt3315342",
+    "title": "Logan",
+    "rank": 211,
+    "release_year": 2017,
+    "rating": 8.1,
+    "vote_count": 889213,
+    "description": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BM2JjODdkMGMtNmY2YS00OGM2LThiY2YtZGYyNzE4Nzc2ODA0XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:17:00",
+    "imdb_id": "tt3315342",
+    "country": "United States"
+  },
+  {
+    "id": "tt0075148",
+    "title": "Rocky",
+    "rank": 212,
+    "release_year": 1976,
+    "rating": 8.1,
+    "vote_count": 659418,
+    "description": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZDEyY2M2MGMtYjg5OC00ZWFjLWFkZDQtNmQzZTdiYmYzZTBkXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:00:00",
+    "imdb_id": "tt0075148",
+    "country": "United States"
+  },
+  {
+    "id": "tt0041959",
+    "title": "The Third Man",
+    "rank": 213,
+    "release_year": 1949,
+    "rating": 8.1,
+    "vote_count": 189635,
+    "description": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+    "genres": [
+      "Drama",
+      "Film-Noir",
+      "Mystery"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNTAwZjAwZDUtNDc1Yi00OGY3LTgzMjktYjIyMjQzOWE3MmVhXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:44:00",
+    "imdb_id": "tt0041959",
+    "country": "United Kingdom"
+  },
+  {
+    "id": "tt0046438",
+    "title": "Tokyo Story",
+    "rank": 214,
+    "release_year": 1953,
+    "rating": 8.1,
+    "vote_count": 73841,
+    "description": "An old couple visit their children and grandchildren in the city, but receive little attention.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BODdkNzcxZjItMDU2Yy00Y2JlLWFkYTQtNzIwM2Q4MWU5MTU2XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:17:00",
+    "imdb_id": "tt0046438",
+    "country": "Japan"
+  },
+  {
+    "id": "tt1895587",
+    "title": "Spotlight",
+    "rank": 216,
+    "release_year": 2015,
+    "rating": 8.1,
+    "vote_count": 518503,
+    "description": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_.jpg",
+    "runtime": "2:09:00",
+    "imdb_id": "tt1895587",
+    "country": "United States"
+  },
+  {
+    "id": "tt26548265",
+    "title": "Maharaja",
+    "rank": 218,
+    "release_year": 2024,
+    "rating": 8.4,
+    "vote_count": 67961,
+    "description": "A barber seeks vengeance after his home is burglarized, cryptically telling police his \"lakshmi\" has been taken, leaving them uncertain if it's a person or object. His quest to recover the elusive \"lakshmi\" unfolds.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTFlMTIxOGItZTk0Zi00MTk2LWJiM2UtMzlhZWYzNjQ4N2Y3XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:21:00",
+    "imdb_id": "tt26548265",
+    "country": "India"
+  },
+  {
+    "id": "tt0050976",
+    "title": "The Seventh Seal",
+    "rank": 220,
+    "release_year": 1957,
+    "rating": 8.1,
+    "vote_count": 208347,
+    "description": "A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZDlmYTkzOWUtODQ0MS00MmM4LWE3ZjMtYTEwNGUwMmJkYzIxXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:36:00",
+    "imdb_id": "tt0050976",
+    "country": "Sweden"
+  },
+  {
+    "id": "tt0325980",
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "rank": 221,
+    "release_year": 2003,
+    "rating": 8.1,
+    "vote_count": 1265337,
+    "description": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save Elizabeth Swann, the governor's daughter and his love, from Jack's former pirate allies, who are now undead.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDhlMzEyNzItMTA5Mi00YWRhLThlNTktYTQyMTA0MDIyNDEyXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:23:00",
+    "imdb_id": "tt0325980",
+    "country": "United States"
+  },
+  {
+    "id": "tt0113247",
+    "title": "La haine",
+    "rank": 223,
+    "release_year": 1995,
+    "rating": 8.1,
+    "vote_count": 211513,
+    "description": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMThlMDA3NDYtZGM2Zi00NmJhLThlYWItZjViZTkzZWU1ZWRiXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:38:00",
+    "imdb_id": "tt0113247",
+    "country": "France"
+  },
+  {
+    "id": "tt0036868",
+    "title": "The Best Years of Our Lives",
+    "rank": 227,
+    "release_year": 1946,
+    "rating": 8.1,
+    "vote_count": 74433,
+    "description": "Three World War II veterans, two of them traumatized or disabled, return home to the American midwest to discover that they and their families have been irreparably changed.",
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNTgxMzUyODQtMDJmZC00ZGMyLWI3MzAtZTYwYjBjZjFmMzIxXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:50:00",
+    "imdb_id": "tt0036868",
+    "country": "United States"
+  },
+  {
+    "id": "tt0070047",
+    "title": "The Exorcist",
+    "rank": 229,
+    "release_year": 1973,
+    "rating": 8.1,
+    "vote_count": 477418,
+    "description": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+    "genres": [
+      "Horror"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZjg3YjE4ZjAtYTdmYS00ZTBkLWE1ZjgtNzAzODUwNzRiYjlmXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:02:00",
+    "imdb_id": "tt0070047",
+    "country": "United States"
+  },
+  {
+    "id": "tt0019254",
+    "title": "The Passion of Joan of Arc",
+    "rank": 230,
+    "release_year": 1928,
+    "rating": 8.1,
+    "vote_count": 64888,
+    "description": "In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYWMwMzEyYWQtYTlmNi00MTg0LTliYjUtZTFhMTMxOGEyNjNlXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:54:00",
+    "imdb_id": "tt0019254",
+    "country": "France"
+  },
+  {
+    "id": "tt0059742",
+    "title": "The Sound of Music",
+    "rank": 231,
+    "release_year": 1965,
+    "rating": 8.1,
+    "vote_count": 276185,
+    "description": "A young novice is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer.",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Family"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYWJhYmU4MjQtZDJhYi00ZGVjLTlkNTEtNzkzNGVjOWQ3MjcwXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:52:00",
+    "imdb_id": "tt0059742",
+    "country": "United States"
+  },
+  {
+    "id": "tt0032138",
+    "title": "The Wizard of Oz",
+    "rank": 232,
+    "release_year": 1939,
+    "rating": 8.1,
+    "vote_count": 450309,
+    "description": "Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others' wishes.",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYWRmY2I0MGItYTQ0OC00NWZmLWIwMDktYjJlNDc0MzVhMmViXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:42:00",
+    "imdb_id": "tt0032138",
+    "country": "United States"
+  },
+  {
+    "id": "tt0317705",
+    "title": "The Incredibles",
+    "rank": 233,
+    "release_year": 2004,
+    "rating": 8,
+    "vote_count": 854703,
+    "description": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_.jpg",
+    "runtime": "1:55:00",
+    "imdb_id": "tt0317705",
+    "country": "United States"
+  },
+  {
+    "id": "tt0092005",
+    "title": "Stand by Me",
+    "rank": 236,
+    "release_year": 1986,
+    "rating": 8.1,
+    "vote_count": 464090,
+    "description": "A writer recounts a childhood journey with his friends to find the body of a missing boy.",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNGJkNTUwM2MtZWE2MS00YjNkLWE3MjktNWQwZDQxMDIyZWVmXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:29:00",
+    "imdb_id": "tt0092005",
+    "country": "United States"
+  },
+  {
+    "id": "tt0074958",
+    "title": "Network",
+    "rank": 237,
+    "release_year": 1976,
+    "rating": 8.1,
+    "vote_count": 179090,
+    "description": "A television network cynically exploits a deranged former anchor's ravings and revelations about mass media for its own profit, but finds that his message may be difficult to control.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BY2E4ZGJiNTMtZTAxZC00MmVlLWI1NjYtMGVhMjhkOGEwZDhjXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:01:00",
+    "imdb_id": "tt0074958",
+    "country": "United States"
+  },
+  {
+    "id": "tt0476735",
+    "title": "My Father and My Son",
+    "rank": 238,
+    "release_year": 2005,
+    "rating": 8.2,
+    "vote_count": 97309,
+    "description": "The family of a left-wing journalist is torn apart after the military coup of Turkey in 1980.",
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZDE3MTBkNmQtNGFjMC00YTcwLWExY2ItN2MyMGZkNWJlMmFmXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:52:00",
+    "imdb_id": "tt0476735",
+    "country": "Turkey"
+  },
+  {
+    "id": "tt4016934",
+    "title": "The Handmaiden",
+    "rank": 240,
+    "release_year": 2016,
+    "rating": 8.1,
+    "vote_count": 188054,
+    "description": "In 1930s Korea, a girl is hired as a handmaiden to a Japanese heiress who lives a secluded life on a countryside estate. But the maid has a secret: She is a pickpocket recruited by a swindler to help seduce the Lady and steal her fortune.",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTllZDI1OGItOGUxNS00OGZhLWIzMjAtYzllZTY1YTA0ZmYwXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:25:00",
+    "imdb_id": "tt4016934",
+    "country": "South Korea"
+  },
+  {
+    "id": "tt0035446",
+    "title": "To Be or Not to Be",
+    "rank": 241,
+    "release_year": 1942,
+    "rating": 8.1,
+    "vote_count": 46933,
+    "description": "During the German occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "War"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTA5OTRkZGUtNDhhOS00OThmLTgwZWYtZGZkM2M4YjZhNzc5XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:39:00",
+    "imdb_id": "tt0035446",
+    "country": "United States"
+  },
+  {
+    "id": "tt5323662",
+    "title": "A Silent Voice: The Movie",
+    "rank": 242,
+    "release_year": 2016,
+    "rating": 8.1,
+    "vote_count": 120246,
+    "description": "A deaf girl, Shoko, is bullied by the popular Shoya. As Shoya continues to bully Shoko, the class turns its back on him. Shoko transfers and Shoya grows up as an outcast. Alone and depressed, the regretful Shoya finds Shoko to make amends.",
+    "genres": [
+      "Animation",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTFiNzRiOWEtYTQwNy00NmRiLWE0ZWYtNTE0YjExZjFmZjkwXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:10:00",
+    "imdb_id": "tt5323662",
+    "country": "Japan"
+  },
+  {
+    "id": "tt0032551",
+    "title": "The Grapes of Wrath",
+    "rank": 244,
+    "release_year": 1940,
+    "rating": 8.1,
+    "vote_count": 104647,
+    "description": "An Oklahoma family, driven off their farm by the poverty and hopelessness of the Dust Bowl, joins the westward migration to California, suffering the misfortunes of the homeless in the Great Depression.",
+    "genres": [
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZDgzZjk3OGYtNWI2Ny00MDg3LTgwYWEtNjI1ODAxNjA3ZmFlXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:09:00",
+    "imdb_id": "tt0032551",
+    "country": "United States"
+  },
+  {
+    "id": "tt0758758",
+    "title": "Into the Wild",
+    "rank": 245,
+    "release_year": 2007,
+    "rating": 8,
+    "vote_count": 678961,
+    "description": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness.",
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNTgwZTJhNWMtNzVjMy00YzQzLWI4MTAtYmJhOGQ5ZmQ3MDM0XkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:28:00",
+    "imdb_id": "tt0758758",
+    "country": "United States"
+  },
+  {
+    "id": "tt0107048",
+    "title": "Groundhog Day",
+    "rank": 246,
+    "release_year": 1993,
+    "rating": 8,
+    "vote_count": 716104,
+    "description": "A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOWE3MjQ3ZDAtNDQ2MC00YjBjLTk0ZWYtNjQ0YzQ4YWE3YTEyXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "1:41:00",
+    "imdb_id": "tt0107048",
+    "country": "United States"
+  },
+  {
+    "id": "tt0245712",
+    "title": "Amores Perros",
+    "rank": 248,
+    "release_year": 2000,
+    "rating": 8,
+    "vote_count": 267645,
+    "description": "An amateur dog fighter, a supermodel, and a derelict assassin, all separately struggling to find love, find their lives transformed by a devastating car wreck in Mexico City.",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMmUzNDI1MDYtNmIxNC00NjczLTk0ZDEtYWFkZDcxMWVhYTEwXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:34:00",
+    "imdb_id": "tt0245712",
+    "country": "Mexico"
+  },
+  {
+    "id": "tt0032976",
+    "title": "Rebecca",
+    "rank": 249,
+    "release_year": 1940,
+    "rating": 8.1,
+    "vote_count": 158997,
+    "description": "A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYTI0MjUyODAtZTBkNC00MmIwLWFlNmYtMWE3ZmJlOWJjM2QyXkEyXkFqcGc@._V1_.jpg",
+    "runtime": "2:10:00",
+    "imdb_id": "tt0032976",
+    "country": "United States"
+  }
+]
